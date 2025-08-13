@@ -1,1 +1,1 @@
-{"tasks": [{"name": "Walk the dog", "status": "Todo", "notes": "At 6 a.m."}, {"name": "Wash utensils", "status": "In Progress", "notes": "At 8 p.m."}, {"name": "Build a modern website", "status": "Complete", "notes": "Use React and setup auth"}]}
+{"tasks": [{"name": "Wash utensils", "status": "In Progress", "notes": "At 8 p.m."}, {"name": "Build a modern website", "status": "Complete", "notes": "Use React and setup auth"}, {"name": "Buy car", "status": "Complete", "notes": "Tomorrow"}]}

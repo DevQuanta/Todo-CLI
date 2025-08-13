@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Minimalist CLI-based task manager"
 requires-python = ">=3.13"
 dependencies = [
+    "questionary>=2.1.0",
     "rich>=14.1.0",
     "typer>=0.16.0",
 ]
